@@ -1,0 +1,18 @@
+<users>
+  <user id="U001" role="BUSINESS">
+    <username>seller1</username>
+    <password>pass</password>
+  </user>
+  <user id="U002" role="BUSINESS">
+    <username>seller2</username>
+    <password>pass</password>
+  </user>
+  <user id="U100" role="RESIDENT">
+    <username>buyer1</username>
+    <password>pass</password>
+  </user>
+  <user id="U101" role="RESIDENT">
+    <username>buyer2</username>
+    <password>pass</password>
+  </user>
+</users>

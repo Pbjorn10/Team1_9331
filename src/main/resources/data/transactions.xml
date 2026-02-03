@@ -1,0 +1,23 @@
+<transactions>
+  <transaction id="T001">
+    <datetime>2026-02-01T09:15:00</datetime>
+    <userId>U100</userId>
+    <productId>P001</productId>
+    <quantity>2</quantity>
+    <totalPrice>100</totalPrice>
+  </transaction>
+  <transaction id="T002">
+    <datetime>2026-02-02T13:40:00</datetime>
+    <userId>U101</userId>
+    <productId>P003</productId>
+    <quantity>3</quantity>
+    <totalPrice>45</totalPrice>
+  </transaction>
+  <transaction id="T003">
+    <datetime>2026-02-03T18:05:00</datetime>
+    <userId>U100</userId>
+    <productId>P004</productId>
+    <quantity>1</quantity>
+    <totalPrice>30</totalPrice>
+  </transaction>
+</transactions>

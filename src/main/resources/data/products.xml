@@ -1,0 +1,32 @@
+<products>
+  <product id="P001">
+    <name>Milk</name>
+    <price>50</price>
+    <stock>20</stock>
+    <category>Dairy</category>
+  </product>
+  <product id="P002">
+    <name>Rice</name>
+    <price>40</price>
+    <stock>35</stock>
+    <category>Grains</category>
+  </product>
+  <product id="P003">
+    <name>Soap</name>
+    <price>15</price>
+    <stock>50</stock>
+    <category>Household</category>
+  </product>
+  <product id="P004">
+    <name>Tea</name>
+    <price>30</price>
+    <stock>25</stock>
+    <category>Beverages</category>
+  </product>
+  <product id="P005">
+    <name>Bread</name>
+    <price>20</price>
+    <stock>18</stock>
+    <category>Bakery</category>
+  </product>
+</products>
