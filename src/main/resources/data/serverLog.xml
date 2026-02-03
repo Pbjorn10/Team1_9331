@@ -1,0 +1,19 @@
+<serverLog>
+  <logEntry>
+    <timestamp>2024-01-15 14:30:45</timestamp>
+    <userId>U001</userId>
+    <username>john_buyer</username>
+    <action>LOGIN</action>
+    <details>User logged in successfully</details>
+    <ipAddress>192.168.1.101</ipAddress>
+  </logEntry>
+  <logEntry>
+    <timestamp>2024-01-15 14:35:20</timestamp>
+    <userId>U001</userId>
+    <username>john_buyer</username>
+    <action>PURCHASE</action>
+    <details>Purchased 3x Organic Coffee (P001)</details>
+    <dataAffected>ORD001, P001 stock reduced by 3</dataAffected>
+    <ipAddress>192.168.1.101</ipAddress>
+  </logEntry>
+</serverLog>
