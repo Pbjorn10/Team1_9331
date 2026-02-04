@@ -26,10 +26,10 @@ Java client-server e-commerce app for local businesses using sockets and XML for
 - `com.team1.ecommerce.server.service.PaymentService` Purchase + transaction write.
 - `com.team1.ecommerce.server.service.ReportService` Aggregates transactions by date.
 - `com.team1.ecommerce.server.service.UserService` Auth/user lookup.
-- `com.team1.ecommerce.server.repository.XmlProductRepository` XML persistence for products.
-- `com.team1.ecommerce.server.repository.XmlUserRepository` XML persistence for users.
-- `com.team1.ecommerce.server.repository.XmlTransactionRepository` XML persistence for transactions.
-- `com.team1.ecommerce.server.repository.XmlCartRepository` Optional XML persistence for carts.
+- `com.team1.ecommerce.server.repository.xml.XmlProductDAO` XML persistence for products.
+- `com.team1.ecommerce.server.repository.xml.XmlUserDAO` XML persistence for users.
+- `com.team1.ecommerce.server.repository.xml.XmlOrderDAO` XML persistence for transactions.
+- `com.team1.ecommerce.server.repository.xml.XmlCartDAO` Optional XML persistence for carts.
 - `com.team1.ecommerce.server.xml.XmlStore` XML load/save coordinator.
 - `com.team1.ecommerce.server.xml.XmlLockManager` Concurrency locks for XML + stock.
 - `com.team1.ecommerce.server.logging.ServerLogger` Transaction log output.
