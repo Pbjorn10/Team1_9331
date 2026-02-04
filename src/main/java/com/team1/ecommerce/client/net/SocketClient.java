@@ -1,4 +1,4 @@
-package com.team1.ecommerce.client.net;
-}
-public class SocketClient {
+package main.java.com.team1.ecommerce.client.net;
+
+public class SocketClient {}
 

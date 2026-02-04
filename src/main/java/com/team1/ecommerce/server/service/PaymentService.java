@@ -1,4 +1,4 @@
-package com.team1.ecommerce.server.service;
-}
-public class PaymentService {
+package main.java.com.team1.ecommerce.server.service;
+
+public class PaymentService {}
 

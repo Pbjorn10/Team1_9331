@@ -1,4 +1,4 @@
-package com.team1.ecommerce.server.repository;
+package main.java.com.team1.ecommerce.server.repository;
 
 public class XmlUserRepository {
 }
